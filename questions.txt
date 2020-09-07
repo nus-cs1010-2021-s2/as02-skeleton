@@ -50,7 +50,7 @@ ooiwt@pe114:~/as02-skeleton$ ./collatz
 178
 
 
-Question 2: Triangle (5 marks)
+Question 2: Triangle (4 marks)
 ------------------------------
 
 Write a program `triangle.c` that draws an isosceles
@@ -94,7 +94,7 @@ spaces should be padded on the left and the right?
 Write a function that draws a particular row of the triangle.
 Then, call this function repeatedly in a loop.
 
-Question 3: Prime (5 marks)
+Question 3: Prime (6 marks)
 ---------------------------
 
 Write a program called `prime` that reads a positive integer
