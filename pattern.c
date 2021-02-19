@@ -1,6 +1,6 @@
 /**
- * CS1010 Semester 1 AY20/21
- * Assignment 3: Pattern
+ * CS1010 Semester 2 AY20/21
+ * Assignment 2: Pattern
  *
  * Read in two positive integers: an interval n (n >= 1) 
  * and the height of the triangle h.  Then draw a triangle
